@@ -1,0 +1,61 @@
+<form >
+  <div class="mb-3">
+    <label for="name" class="form-label">Name</label>
+    <input type="text text-danger" class="form-control" [(ngModel)]="name" name="Name" required>
+  </div>
+  <div class="mb-3">
+    <label for="phNo" class="form-label">Phone Number</label>
+    <input type="text text-danger" class="form-control" pattern="^\d{10}$" minlength="10" maxlength="10" [(ngModel)]="phNo" name="PhNo" required>
+  </div>
+  <div class="mb-3">
+    <label for="email" class="form-label">Email</label>
+    <input type="text text-danger" class="form-control" pattern="[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$" [(ngModel)]="email" name="Email" required>
+  </div>
+  <div class="mb-3">
+    <label for="countryId" class="form-label">
+     Country
+    </label>
+    <select class="form-control form-select" (change)="updateStates()" aria-label="Default select example" name="CountryId" id="countryId" [(ngModel)]="countryId" required>
+      <option [selected]="countryId === type.id" *ngFor="let type of countryList$ | async" [value]="type.id">{{ type.countryName }}</option>
+  </select>
+    <!-- <input type="text" class="form-control" name="countryId" id="countryId" [(ngModel)]="countryId" *ngIf="customer.countryId!=0" disabled>
+    <select class="form-control" name="countryId" id="countryId" [(ngModel)]="countryId" *ngIf="customer.customerId==0">
+      <option *ngFor="let type of countryList$|async" [value]="type.id"> {{type.countryName}}
+      </option>
+    </select> -->
+  </div>
+  <div class="mb-3">
+    <label for="stateId" class="form-label">
+     State
+    </label>
+    <select class="form-control form-select" [disabled]="!countryId" aria-label="Default select example" name="StateId" id="stateId" [(ngModel)]="stateId" required>
+      <option [selected]="stateId === type.id" *ngFor="let type of stateList$ | async" [value]="type.id">{{ type.stateName }}</option>
+  </select>
+    <!-- <input type="text" class="form-control" name="stateId" id="stateId" [(ngModel)]="stateId" *ngIf="customer.stateId!=0" disabled>
+    <select class="form-control" name="stateId" id="stateId" [(ngModel)]="stateId" *ngIf="customer.customerId==0">
+      <option *ngFor="let type of stateList$|async" [value]="type.id"> {{type.stateName}}
+      </option>
+    </select> -->
+  </div>
+  <div class="mb-3">
+    <label for="remarks" class="form-label">Remarks</label>
+    <textarea class="form-control" id="remarks" rows="3" [(ngModel)]="remarks" name="Remarks" required></textarea>
+  </div>
+  <div class="mb-3">
+  <label  for="gstEnable" class="form-label">GST Enable</label>
+  <input type="checkbox" [(ngModel)]="gstEnable" name="GSTEnable">
+  </div>
+  <div class="mb-3">
+    <label for="datepicker" class="form-label mb-1">Registered Date</label>
+    <input type="date" class="form-control" [(ngModel)]="createdDate" name="CreatedDate" required>
+</div>
+<button (click)="addCustomers()" *ngIf="customer.customerId==0" class="btn btn-primary">
+  Add
+</button>
+<button (click)="updateCustomers()" *ngIf="customer.customerId!=0" class="btn btn-primary">
+  Update
+</button>
+</form>
+
+
+

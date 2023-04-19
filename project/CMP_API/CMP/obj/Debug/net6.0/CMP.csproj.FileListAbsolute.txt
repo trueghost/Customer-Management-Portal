@@ -1,0 +1,879 @@
+D:\LOGIN\angular_auth\CMP\CMP\obj\Debug\net6.0\CMP.csproj.AssemblyReference.cache
+D:\LOGIN\angular_auth\CMP\CMP\obj\Debug\net6.0\CMP.GeneratedMSBuildEditorConfig.editorconfig
+D:\LOGIN\angular_auth\CMP\CMP\obj\Debug\net6.0\CMP.AssemblyInfoInputs.cache
+D:\LOGIN\angular_auth\CMP\CMP\obj\Debug\net6.0\CMP.AssemblyInfo.cs
+D:\LOGIN\angular_auth\CMP\CMP\obj\Debug\net6.0\CMP.csproj.CoreCompileInputs.cache
+D:\LOGIN\angular_auth\CMP\CMP\obj\Debug\net6.0\CMP.MvcApplicationPartsAssemblyInfo.cs
+D:\LOGIN\angular_auth\CMP\CMP\obj\Debug\net6.0\CMP.MvcApplicationPartsAssemblyInfo.cache
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\appsettings.Development.json
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\appsettings.json
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\CMP.exe
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\CMP.deps.json
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\CMP.runtimeconfig.json
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\CMP.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\CMP.pdb
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Azure.Core.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Azure.Identity.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Humanizer.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\MessagePack.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\System.Web.Cors.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\System.Web.Http.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\System.Web.Http.Cors.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.Build.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\NuGet.Common.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\System.CodeDom.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\System.Memory.Data.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\System.Text.Json.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\LOGIN\angular_auth\CMP\CMP\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\LOGIN\angular_auth\CMP\CMP\obj\Debug\net6.0\staticwebassets\msbuild.CMP.Microsoft.AspNetCore.StaticWebAssets.props
+D:\LOGIN\angular_auth\CMP\CMP\obj\Debug\net6.0\staticwebassets\msbuild.build.CMP.props
+D:\LOGIN\angular_auth\CMP\CMP\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CMP.props
+D:\LOGIN\angular_auth\CMP\CMP\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CMP.props
+D:\LOGIN\angular_auth\CMP\CMP\obj\Debug\net6.0\staticwebassets.pack.json
+D:\LOGIN\angular_auth\CMP\CMP\obj\Debug\net6.0\staticwebassets.build.json
+D:\LOGIN\angular_auth\CMP\CMP\obj\Debug\net6.0\staticwebassets.development.json
+D:\LOGIN\angular_auth\CMP\CMP\obj\Debug\net6.0\scopedcss\bundle\CMP.styles.css
+D:\LOGIN\angular_auth\CMP\CMP\obj\Debug\net6.0\CMP.csproj.CopyComplete
+D:\LOGIN\angular_auth\CMP\CMP\obj\Debug\net6.0\CMP.dll
+D:\LOGIN\angular_auth\CMP\CMP\obj\Debug\net6.0\refint\CMP.dll
+D:\LOGIN\angular_auth\CMP\CMP\obj\Debug\net6.0\CMP.pdb
+D:\LOGIN\angular_auth\CMP\CMP\obj\Debug\net6.0\CMP.genruntimeconfig.cache
+D:\LOGIN\angular_auth\CMP\CMP\obj\Debug\net6.0\ref\CMP.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\appsettings.Development.json
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\appsettings.json
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\CMP.exe
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\CMP.deps.json
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\CMP.runtimeconfig.json
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\CMP.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\CMP.pdb
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Azure.Core.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Azure.Identity.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Humanizer.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\MessagePack.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\System.Web.Cors.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\System.Web.Http.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\System.Web.Http.Cors.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.Build.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\NuGet.Common.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\System.CodeDom.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\System.Memory.Data.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\System.Text.Json.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\obj\Debug\net6.0\CMP.csproj.AssemblyReference.cache
+D:\LOGIN\angular_auth\CMP_API\CMP\obj\Debug\net6.0\CMP.GeneratedMSBuildEditorConfig.editorconfig
+D:\LOGIN\angular_auth\CMP_API\CMP\obj\Debug\net6.0\CMP.AssemblyInfoInputs.cache
+D:\LOGIN\angular_auth\CMP_API\CMP\obj\Debug\net6.0\CMP.AssemblyInfo.cs
+D:\LOGIN\angular_auth\CMP_API\CMP\obj\Debug\net6.0\CMP.csproj.CoreCompileInputs.cache
+D:\LOGIN\angular_auth\CMP_API\CMP\obj\Debug\net6.0\CMP.MvcApplicationPartsAssemblyInfo.cs
+D:\LOGIN\angular_auth\CMP_API\CMP\obj\Debug\net6.0\CMP.MvcApplicationPartsAssemblyInfo.cache
+D:\LOGIN\angular_auth\CMP_API\CMP\obj\Debug\net6.0\staticwebassets\msbuild.CMP.Microsoft.AspNetCore.StaticWebAssets.props
+D:\LOGIN\angular_auth\CMP_API\CMP\obj\Debug\net6.0\staticwebassets\msbuild.build.CMP.props
+D:\LOGIN\angular_auth\CMP_API\CMP\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CMP.props
+D:\LOGIN\angular_auth\CMP_API\CMP\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CMP.props
+D:\LOGIN\angular_auth\CMP_API\CMP\obj\Debug\net6.0\staticwebassets.pack.json
+D:\LOGIN\angular_auth\CMP_API\CMP\obj\Debug\net6.0\staticwebassets.build.json
+D:\LOGIN\angular_auth\CMP_API\CMP\obj\Debug\net6.0\staticwebassets.development.json
+D:\LOGIN\angular_auth\CMP_API\CMP\obj\Debug\net6.0\scopedcss\bundle\CMP.styles.css
+D:\LOGIN\angular_auth\CMP_API\CMP\obj\Debug\net6.0\CMP.csproj.CopyComplete
+D:\LOGIN\angular_auth\CMP_API\CMP\obj\Debug\net6.0\CMP.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\obj\Debug\net6.0\refint\CMP.dll
+D:\LOGIN\angular_auth\CMP_API\CMP\obj\Debug\net6.0\CMP.pdb
+D:\LOGIN\angular_auth\CMP_API\CMP\obj\Debug\net6.0\CMP.genruntimeconfig.cache
+D:\LOGIN\angular_auth\CMP_API\CMP\obj\Debug\net6.0\ref\CMP.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\appsettings.Development.json
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\appsettings.json
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\CMP.exe
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\CMP.deps.json
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\CMP.runtimeconfig.json
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\CMP.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\CMP.pdb
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Azure.Core.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Azure.Identity.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Humanizer.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\MessagePack.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\System.Web.Cors.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\System.Web.Http.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\System.Web.Http.Cors.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.Build.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\NuGet.Common.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\System.CodeDom.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\System.Memory.Data.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\System.Text.Json.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\customer management portal\project\CMP_API\CMP\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\customer management portal\project\CMP_API\CMP\obj\Debug\net6.0\CMP.csproj.AssemblyReference.cache
+D:\customer management portal\project\CMP_API\CMP\obj\Debug\net6.0\CMP.GeneratedMSBuildEditorConfig.editorconfig
+D:\customer management portal\project\CMP_API\CMP\obj\Debug\net6.0\CMP.AssemblyInfoInputs.cache
+D:\customer management portal\project\CMP_API\CMP\obj\Debug\net6.0\CMP.AssemblyInfo.cs
+D:\customer management portal\project\CMP_API\CMP\obj\Debug\net6.0\CMP.csproj.CoreCompileInputs.cache
+D:\customer management portal\project\CMP_API\CMP\obj\Debug\net6.0\CMP.MvcApplicationPartsAssemblyInfo.cs
+D:\customer management portal\project\CMP_API\CMP\obj\Debug\net6.0\CMP.MvcApplicationPartsAssemblyInfo.cache
+D:\customer management portal\project\CMP_API\CMP\obj\Debug\net6.0\staticwebassets\msbuild.CMP.Microsoft.AspNetCore.StaticWebAssets.props
+D:\customer management portal\project\CMP_API\CMP\obj\Debug\net6.0\staticwebassets\msbuild.build.CMP.props
+D:\customer management portal\project\CMP_API\CMP\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CMP.props
+D:\customer management portal\project\CMP_API\CMP\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CMP.props
+D:\customer management portal\project\CMP_API\CMP\obj\Debug\net6.0\staticwebassets.pack.json
+D:\customer management portal\project\CMP_API\CMP\obj\Debug\net6.0\staticwebassets.build.json
+D:\customer management portal\project\CMP_API\CMP\obj\Debug\net6.0\staticwebassets.development.json
+D:\customer management portal\project\CMP_API\CMP\obj\Debug\net6.0\scopedcss\bundle\CMP.styles.css
+D:\customer management portal\project\CMP_API\CMP\obj\Debug\net6.0\CMP.csproj.CopyComplete
+D:\customer management portal\project\CMP_API\CMP\obj\Debug\net6.0\CMP.dll
+D:\customer management portal\project\CMP_API\CMP\obj\Debug\net6.0\refint\CMP.dll
+D:\customer management portal\project\CMP_API\CMP\obj\Debug\net6.0\CMP.pdb
+D:\customer management portal\project\CMP_API\CMP\obj\Debug\net6.0\CMP.genruntimeconfig.cache
+D:\customer management portal\project\CMP_API\CMP\obj\Debug\net6.0\ref\CMP.dll

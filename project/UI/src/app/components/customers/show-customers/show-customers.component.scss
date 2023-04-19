@@ -1,0 +1,88 @@
+@-webkit-keyframes fadeInAndOut {
+	0% {
+		opacity: 0;
+	}
+	50% {
+		opacity: 1;
+	}
+	100% {
+		opacity: 0;
+	}
+}
+@keyframes fadeInAndOut {
+	0% {
+		opacity: 0;
+	}
+	50% {
+		opacity: 1;
+	}
+	100% {
+		opacity: 0;
+	}
+}
+#add-success-alert,
+#update-success-alert,
+#delete-success-alert {
+	display: none;
+	animation-name: fadeInAndOut;
+	animation-duration: 4s;
+}
+
+.row-select{
+	opacity: .2;
+}
+
+// .th1 {
+//   width: 10px !important;
+// 	text-align: center !important;
+// }
+
+// .th2 {
+//   width: 250px !important;
+// 	text-align: center !important;
+// }
+
+// .th3 {
+//   width: 100px !important;
+// 	text-align: center !important;
+// }
+
+// .th4 {
+//   width: 250px !important;
+// 	text-align: center !important;
+// }
+
+// .th5 {
+//   width: 120px !important;
+// 	text-align: center !important;
+// }
+
+// .th6 {
+//   width: 130px !important;
+// 	text-align: center !important;
+// }
+
+// .th7 {
+//   width: 200px !important;
+// 	text-align: center !important;
+// }
+
+// .th8 {
+//   width: 150px !important;
+// 	text-align: center !important;
+// }
+
+// .th9 {
+//   width: 100px !important;
+// 	text-align: center !important;
+// }
+
+// .th10 {
+//   width: 150px !important;
+// 	text-align: center !important;
+// }
+
+// .th11 {
+//   width: 300px !important;
+// 	text-align: center !important;
+// }

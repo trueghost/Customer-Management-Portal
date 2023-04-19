@@ -1,0 +1,174 @@
+<body>
+<nav class="navbar navbar-dark bg-dark">
+  <span class="navbar-brand mb-0 h1">Customer Management Portal</span><br>
+  <button type="button" class="btn btn-primary float-end m-2" data-bs-toggle="modal" data-bs-target="#staticBackdrop"
+(click)="modalAdd()">
+  Add Customers
+</button>
+</nav>
+
+<!-- REACTIVE SEARCH BAR -->
+<!-- <app-search (searchTextChanged)="onSearchTextEntered($event)"></app-search><br> -->
+
+
+<form #addClientForm="ngForm" (ngSubmit)="searchdata()" novalidate>
+<div class="row">    
+  <button [disabled]="!(model.startdate && model.enddate)" type="submit" class="col-sm-12 btn btn-success">    
+ Search Between Registered Dates
+  </button>    
+</div>   
+<div class="row" style="margin-top:10px;margin-bottom: 10px;">    
+<div class="col-sm-3 form-group">  </div>  
+<div class="col-sm-3 form-group">    
+  <input  
+      type="text text-danger" #startdate="ngModel" name="startdate"  
+      [(ngModel)]="model.startdate"   
+      placeholder="From Date"  
+      bsDatepicker  
+      [bsConfig]="{ isAnimated: true }" class="form-control"/>  
+</div>     
+<div class="col-sm-3 form-group">    
+  <input type="text text-danger"  #enddate="ngModel" name="enddate"  
+      [(ngModel)]="model.enddate"   
+      placeholder="To Date"  
+       
+      bsDatepicker  
+      [bsConfig]="{ isAnimated: true }"  class="form-control"/>  
+</div>     
+</div>  
+</form> 
+
+<!-- USE THIS FOR REACTIVE SEARCH BAR AND TO DISABLE ROWS -->
+
+<!-- <table class="table" id="example" datatable [dtOptions]="dtOptions">
+  <tr>
+  <thead class="thead-dark">
+    <th class="th1" scope="col">SI<br>No</th>
+    <th class="th2" scope="col">Name</th>
+    <th class="th3" scope="col">Phone<br>Number</th>
+    <th class="th4" scope="col">Email</th>
+    <th class="th5" scope="col">Country</th>
+    <th class="th6" scope="col">State</th>
+    <th class="th7" scope="col">Remarks</th>
+    <th class="th8" scope="col">GST</th>
+    <th class="th9" scope="col">Status</th>
+    <th class="th10" scope="col">Registered Date<br>DD-MM-YYYY</th>
+    <th class="th11" scope="col">Options</th>
+  </thead>
+  </tr>
+  <tbody>
+    <div *ngFor="let item of allProducts; index as i">
+    <tr *ngIf="searchText === '' || item.Name.toLowerCase().includes(searchText) || item.Email.toLowerCase().includes(searchText) || item.PhNo.toLowerCase().includes(searchText)">
+    <td class="th1" scope="row">{{i + 1}}</td>
+    <td class="th2">{{item.Name}}</td>
+    <td class="th3">{{item.PhNo}}</td>
+    <td class="th4">{{item.Email}}</td>
+    <td class="th5">{{countryDetailsMap.get(item.CountryId)}}</td>
+    <td class="th6">{{stateDetailsMap.get(item.StateId)}}</td>
+    <td>{{item.countryId}}</td>
+    <td>{{item.stateId}}</td>
+    <td class="th7">{{item.Remarks}}</td>
+    <td class="th8">{{item.GSTEnable}}</td>
+    <td class="th9">
+      {{item.status}}
+      <div *ngIf="item.status === 2; then active else passive"></div>
+      <ng-template #active>Active</ng-template>
+      <ng-template #passive>Passive</ng-template>
+    </td>
+    <td class="th10">{{item.CreatedDate | date:'dd-MM-yyyy'}}</td>
+    <td class="th11">
+      <button class="btn btn-outline-primary me-2 mb-1" title="Edit"
+      (click)="modalEdit(item)" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-pencil-square" viewBox="0 0 16 16">
+          <path d="M15.502 1.94a.5.5 0 0 1 0 .706L14.459 3.69l-2-2L13.502.646a.5.5 0 0 1 .707 0l1.293 1.293zm-1.75 2.456-2-2L4.939 9.21a.5.5 0 0 0-.121.196l-.805 2.414a.25.25 0 0 0 .316.316l2.414-.805a.5.5 0 0 0 .196-.12l6.813-6.814z"/>
+          <path fill-rule="evenodd" d="M1 13.5A1.5 1.5 0 0 0 2.5 15h11a1.5 1.5 0 0 0 1.5-1.5v-6a.5.5 0 0 0-1 0v6a.5.5 0 0 1-.5.5h-11a.5.5 0 0 1-.5-.5v-11a.5.5 0 0 1 .5-.5H9a.5.5 0 0 0 0-1H2.5A1.5 1.5 0 0 0 1 2.5v11z"/>
+        </svg>
+      </button>
+      <button class="btn btn-danger me-2 mb-1" title="Change Status" [(ngModel)]="item.customerId" (click)="StatusChange(item.customerId)">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="none" d="M0 0h24v24H0z"/><path d="M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10-4.477 10-10 10zm0-2a8 8 0 1 0 0-16 8 8 0 0 0 0 16zM7 9l3-3.5L13 9h-2v4H9V9H7zm10 6l-3 3.5-3-3.5h2v-4h2v4h2z"/></svg>
+      </button>
+    </td>
+  </tr>
+    </div>
+  </tbody>
+</table> -->
+
+<!-- THIS IS FOR BACKEND SEARCHING -->
+
+<table class="table">
+  <thead class="table-dark">
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Name</th>
+      <th scope="col">Phone Number</th>
+      <th scope="col">Email</th>
+      <th scope="col">Country</th>
+      <th scope="col">State</th>
+      <th scope="col">Remarks</th>
+      <th scope="col">GST Enable</th>
+      <th scope="col">Status</th>
+      <th scope="col">Actions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let item of allProducts; index as i">
+      <th scope="row">{{i+1}}</th>
+      <td>{{item.Name}}</td>
+      <td>{{item.PhNo}}</td>
+      <td>{{item.Email}}</td>
+      <td>{{countryDetailsMap.get(item.CountryId)}}</td>
+      <td>{{stateDetailsMap.get(item.StateId)}}</td>
+      <td>{{item.Remarks}}</td>
+      <td>{{item.GSTEnable}}</td>
+      <td>
+        <div *ngIf="item.status === 2; then active else passive"></div>
+      <ng-template #active>Active</ng-template>
+      <ng-template #passive>Passive</ng-template>
+      </td>
+      <td>
+        <button class="btn btn-outline-primary me-2 mb-1" title="Edit"
+      (click)="modalEdit(item)" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-pencil-square" viewBox="0 0 16 16">
+          <path d="M15.502 1.94a.5.5 0 0 1 0 .706L14.459 3.69l-2-2L13.502.646a.5.5 0 0 1 .707 0l1.293 1.293zm-1.75 2.456-2-2L4.939 9.21a.5.5 0 0 0-.121.196l-.805 2.414a.25.25 0 0 0 .316.316l2.414-.805a.5.5 0 0 0 .196-.12l6.813-6.814z"/>
+          <path fill-rule="evenodd" d="M1 13.5A1.5 1.5 0 0 0 2.5 15h11a1.5 1.5 0 0 0 1.5-1.5v-6a.5.5 0 0 0-1 0v6a.5.5 0 0 1-.5.5h-11a.5.5 0 0 1-.5-.5v-11a.5.5 0 0 1 .5-.5H9a.5.5 0 0 0 0-1H2.5A1.5 1.5 0 0 0 1 2.5v11z"/>
+        </svg>
+      </button>
+      <button class="btn btn-danger me-2 mb-1" title="Change Status" [(ngModel)]="item.customerId" (click)="StatusChange(item.customerId)">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="none" d="M0 0h24v24H0z"/><path d="M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10-4.477 10-10 10zm0-2a8 8 0 1 0 0-16 8 8 0 0 0 0 16zM7 9l3-3.5L13 9h-2v4H9V9H7zm10 6l-3 3.5-3-3.5h2v-4h2v4h2z"/></svg>
+      </button>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="alert alert-success" role="alert" id="add-success-alert">
+  Customer Details Successefully Added!
+</div>
+
+<div class="alert alert-success" role="alert" id="update-success-alert">
+  Customer Details Successefully Updated!
+</div>
+
+<div class="alert alert-success" role="alert" id="delete-success-alert">
+  Customer Details Successefully Deleted!
+</div>
+
+
+<!-- Add Customers Modal -->
+<div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="staticBackdropLabel">{{modalTitle}}</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" (click)="modalClose()" id="add-modal-close"></button>
+      </div>
+      <div class="modal-body">
+        <app-add-customers [customer]="customer" *ngIf="activateAddCustomersComponent"></app-add-customers>
+      </div>
+    </div>
+  </div>
+</div>
+</body> 
+
+<!-- <button class="form-check-input disableRow" type="checkbox" [(ngModel)]="item.customerId" (change)="StatusChange(item.customerId)" role="switch" value="websitecheck" name="websitecheck" placeholder="Status">
+<label class="form-check-label" for="flexSwitchCheckDefault">Status</label> -->
